@@ -1,5 +1,5 @@
 {
-    "name": "bryanyeh/shopify-laravel",
+    "name": "apidirect/shopify-laravel",
     "description": "Shopify API for Laravel 5.4 using Guzzle",
     "license": "MIT",
     "keywords": ["laravel", "api", "shopify", "guzzle"],
